@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chamarasapumal.github.io/me/sitemap.xml
