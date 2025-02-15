@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.3cc22e6c.css",
-    "main.js": "/me/static/js/main.45b7480e.js",
-    "static/js/453.41811d64.chunk.js": "/me/static/js/453.41811d64.chunk.js",
-    "static/media/hospitalOne.png": "/me/static/media/hospitalOne.e82d035efb0b62a4e23b.png",
-    "static/media/burgerShop.png": "/me/static/media/burgerShop.a0e213908f57ca1e45e1.png",
-    "static/media/sac-savory.png": "/me/static/media/sac-savory.31a0ab5f881e2db3cedd.png",
-    "static/media/clothingShop.png": "/me/static/media/clothingShop.1b245ef28eedd2273699.png",
-    "static/media/tourBooking.png": "/me/static/media/tourBooking.fddd65209e67dc394097.png",
-    "static/media/bookinfo.png": "/me/static/media/bookinfo.4582d29c0de3dbf201fb.png",
-    "static/media/hospitalManagement.png": "/me/static/media/hospitalManagement.7d9012f183b5ff083467.png",
-    "static/media/weatherApp.png": "/me/static/media/weatherApp.3c045c71406f925b8120.png",
-    "index.html": "/me/index.html",
-    "static/media/slick.svg": "/me/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/me/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/me/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/WaveSVG.svg": "/me/static/media/WaveSVG.98590a8a26334b5c50ba1e9c312950e0.svg",
-    "static/media/slick.woff": "/me/static/media/slick.295183786cd8a1389865.woff",
-    "main.3cc22e6c.css.map": "/me/static/css/main.3cc22e6c.css.map",
-    "main.45b7480e.js.map": "/me/static/js/main.45b7480e.js.map",
-    "453.41811d64.chunk.js.map": "/me/static/js/453.41811d64.chunk.js.map"
+    "main.css": "/mea/static/css/main.db3d25a2.css",
+    "main.js": "/mea/static/js/main.633eec64.js",
+    "static/js/453.41811d64.chunk.js": "/mea/static/js/453.41811d64.chunk.js",
+    "static/media/hospitalOne.png": "/mea/static/media/hospitalOne.e82d035efb0b62a4e23b.png",
+    "static/media/burgerShop.png": "/mea/static/media/burgerShop.a0e213908f57ca1e45e1.png",
+    "static/media/sac-savory.png": "/mea/static/media/sac-savory.31a0ab5f881e2db3cedd.png",
+    "static/media/clothingShop.png": "/mea/static/media/clothingShop.1b245ef28eedd2273699.png",
+    "static/media/tourBooking.png": "/mea/static/media/tourBooking.fddd65209e67dc394097.png",
+    "static/media/bookinfo.png": "/mea/static/media/bookinfo.4582d29c0de3dbf201fb.png",
+    "static/media/hospitalManagement.png": "/mea/static/media/hospitalManagement.7d9012f183b5ff083467.png",
+    "static/media/weatherApp.png": "/mea/static/media/weatherApp.3c045c71406f925b8120.png",
+    "index.html": "/mea/index.html",
+    "static/media/slick.svg": "/mea/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/mea/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/mea/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/WaveSVG.svg": "/mea/static/media/WaveSVG.98590a8a26334b5c50ba1e9c312950e0.svg",
+    "static/media/slick.woff": "/mea/static/media/slick.295183786cd8a1389865.woff",
+    "main.db3d25a2.css.map": "/mea/static/css/main.db3d25a2.css.map",
+    "main.633eec64.js.map": "/mea/static/js/main.633eec64.js.map",
+    "453.41811d64.chunk.js.map": "/mea/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cc22e6c.css",
-    "static/js/main.45b7480e.js"
+    "static/css/main.db3d25a2.css",
+    "static/js/main.633eec64.js"
   ]
 }
